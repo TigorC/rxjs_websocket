@@ -1,0 +1,21 @@
+{
+  "name": "ws-rxjs-reconnect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/es6-shim": "^0.31.32",
+    "ts-loader": "^1.0.0",
+    "typescript": "^2.0.7",
+    "typings": "^1.5.0",
+    "webpack": "^1.13.2"
+  },
+  "dependencies": {
+    "rxjs": "^5.0.0-rc.1"
+  }
+}

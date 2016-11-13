@@ -1,0 +1,5 @@
+*.sublime-project
+*.sublime-workspace
+*.pyc
+__pycache__
+client/node_modules
